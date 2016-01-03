@@ -16,4 +16,5 @@
 5. 下载：
 
   * [2016年第01期下载](http://pan.baidu.com/s/1hrs0v0C)
+
   ![cover01](/images/cover.2016.1.png)
