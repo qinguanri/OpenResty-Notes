@@ -17,5 +17,5 @@ Notes OpenResty monthly, featured OpenResty relevant excellent articles, dedicat
 4 . 发布方式：QQ群文件共享、百度云私密共享、朋友圈共享、github共享
 
 
-[2016年第01期](http://pan.baidu.com/s/1mhdy5vE)
+[2016年第01期](http://pan.baidu.com/s/1hrs0v0C)
 
