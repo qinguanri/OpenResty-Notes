@@ -16,4 +16,13 @@
 5. 下载：
 
   * [2016年第01期下载](http://pan.baidu.com/s/1hrs0v0C)
-  ![cover01](/images/cover.2016.1.png)
+    #### 目录
+    * 卷首语
+    * 罗永浩正式发布锤子T2,奖金将授予OpenResty
+    * 火焰图
+    * OpenResty 反向代理的用法与技巧
+    * UPYUN的Ngx_lua最佳技术实践
+    * 基于OpenResty的Web服务框架Vanilla实战
+    * 浅谈OpenResty未来发展--章亦春
+    * OpenResty的现状、趋势、使用及学习方法--温铭
+    * 实施微服务需要哪些基础框架	
