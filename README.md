@@ -15,5 +15,5 @@
 4. 发布方式：QQ群文件共享、百度云私密共享、朋友圈共享、github共享
 5. 下载：
 
-  * [2016年第01期下载](http://pan.baidu.com/s/1mhdy5vE)
+  * [2016年第01期下载](http://pan.baidu.com/s/1hrs0v0C)
   ![cover01](/images/cover.2016.1.png)
