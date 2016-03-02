@@ -17,7 +17,6 @@
 
   * [2016年第01期下载](http://pan.baidu.com/s/1bouC9HX)
 
-    #### 目录
     * 卷首语
     * 罗永浩正式发布锤子T2,奖金将授予OpenResty
     * 火焰图
@@ -29,9 +28,8 @@
     * 实施微服务需要哪些基础框架
 
 
-* [2016年第02期下载](http://pan.baidu.com/s/1blxiY6)
-  
-    #### 目录
+  * [2016年第02期下载](http://pan.baidu.com/s/1blxiY6)
+
     * 卷首语
     * 执行阶段概念
     * WEB开发实战--HTTP服务
